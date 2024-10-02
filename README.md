@@ -9,7 +9,7 @@ This project focuses on detecting human emotions from speech using deep learning
 
 ### Installation
 Clone the repository:
-git clone https://github.com/yourusername/emotion-detection-from-speech.git
+git clone [https://github.com/yourusername/emotion-detection-from-speech.git](https://github.com/praneethnarisetty/Detection-of-emotions-from-speech)
 
 Install required libraries:
 pip install pandas numpy matplotlib seaborn librosa keras tensorflow
