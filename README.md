@@ -1,8 +1,10 @@
 # Detection-of-emotions-from-speech
 Voice Emotion - Decoding Feelings from Speech
 
-Project Title: Emotion Detection from Speech
-Description
+## Project Title: Emotion Detection from Speech
+
+
+### Description
 This project focuses on detecting human emotions from speech using deep learning techniques. It leverages audio data from sources like RAVDESS, CREMA-D, and TESS datasets to train models that can classify emotions based on features extracted from speech. Technologies used include Python with libraries like Librosa for audio processing, Keras and TensorFlow for building and training neural network models, and Matplotlib and Seaborn for data visualization.
 
 Installation
